@@ -13,7 +13,7 @@ The purpose of the analysis was to determine which organizations Alphabet Soup s
 
 - These are the variables not used for the model.
 
-!["These are the variables that were not used for the model"](Images/dropped_targets.png)
+!["These are the variables that were not used for the model"](Images/dropped_tagets.png)
 
 ### Compiling, Training, and Evaluating the Model
 - I decided to go with 2 hidden layers, the first one I used 8 neurons and the second I used 5. I used the relu activation on the first hidden layer, and sigmoid on the second. I used the relu and sigmoid activation as I figured they would work well together with the data.
